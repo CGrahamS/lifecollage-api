@@ -1,0 +1,24 @@
+{
+  "name": "lifecollage-api",
+  "version": "1.0.0",
+  "description": "#### _{Brief description of application}, {Date of current version}_",
+  "main": "server.js",
+  "scripts": {
+    "deploy": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGrahamS/lifecollage-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CGrahamS/lifecollage-api/issues"
+  },
+  "homepage": "https://github.com/CGrahamS/lifecollage-api#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "sequelize": "^3.30.1"
+  }
+}
